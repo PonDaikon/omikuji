@@ -1,0 +1,15 @@
+F:\00visualstudio\omikuji\omikuji\omikuji\bin\Debug\net8.0\omikuji.exe
+F:\00visualstudio\omikuji\omikuji\omikuji\bin\Debug\net8.0\omikuji.deps.json
+F:\00visualstudio\omikuji\omikuji\omikuji\bin\Debug\net8.0\omikuji.runtimeconfig.json
+F:\00visualstudio\omikuji\omikuji\omikuji\bin\Debug\net8.0\omikuji.dll
+F:\00visualstudio\omikuji\omikuji\omikuji\bin\Debug\net8.0\omikuji.pdb
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.GeneratedMSBuildEditorConfig.editorconfig
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.AssemblyInfoInputs.cache
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.AssemblyInfo.cs
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.csproj.CoreCompileInputs.cache
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.sourcelink.json
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.dll
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\refint\omikuji.dll
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.pdb
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\omikuji.genruntimeconfig.cache
+F:\00visualstudio\omikuji\omikuji\omikuji\obj\Debug\net8.0\ref\omikuji.dll
